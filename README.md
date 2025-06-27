@@ -115,6 +115,3 @@ GitHub
 1. Save this content as `README.md` inside your project folder.
 2. Push it to your GitHub repo.
 3. Your links and layout will be perfectly clickable and formatted on GitHub.
-
-Let me know if you want this saved as a `.md` file or directly added to your repo!
-
